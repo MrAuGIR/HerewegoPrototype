@@ -5,7 +5,7 @@ require_once 'commons/header.php';
 ?>
 <!-- DEBUT CONTENU DE LA PAGE -->
 
-
+<h1>Test</h1>
 
 <!-- FIN CONTENU DE LA PAGE -->
 <?php
