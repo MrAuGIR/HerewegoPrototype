@@ -40,12 +40,51 @@ require_once 'commons/header.php';
                     Integer vulputate at nunc ac sollicitudin. Integer feugiat ipsum sodales arcu accumsan, sed imperdiet tellus efficitur. Aliquam erat volutpat. Sed mollis ultricies bibendum. Donec rutrum orci velit, facilisis rutrum nulla venenatis quis. Mauris egestas elementum justo, facilisis congue massa fringilla lobortis. Proin magna arcu, lobortis ut mi ac, venenatis tempor risus. Sed pretium sem eu diam pulvinar facilisis. Proin sagittis maximus libero. Vestibulum facilisis lacus non turpis consectetur, id ultricies elit vulputate. Integer ultrices elit elit, sit amet convallis nisl volutpat nec. Quisque tempus malesuada euismod. Donec ex ante, vestibulum sed semper a, egestas a est. Aliquam sodales nec ante non sodales.
                     </p>
                 </div>
+                <div class="col-12 mt-4 mb-4">
+                    <a href="page-transports-event.php"  class="btn btn-info">Les transports</a>
+                </div>
             </div>
         </div>
         <div class="col-12 col-lg-4">
             <div class="row">
+                <div class="col-12 py-2">
+                    <button type="button" class="btn btn-success">Je participe</button>
+                </div>
+            </div>
+            <div class="row">
                 <div class="col-12">
                     <p class="fs-5 fw-bold">Du 19/02/2021 au 21/02/2021</p>
+                </div>
+                <div class="col-12">
+                    <p class="fs-5 fw-bold">Horaire : 19h - 20 h</p>
+                </div>
+                <div class="col-12">
+                    <a href="#" title="">Voir les autres événement du même Event-group</a>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-12 py-2">
+                    <div class="border-top">
+                        <span class="fs-6  lh-1">1 rue du stade france</span><br>
+                        <span class="fs-6 lh-1">Saint-Denis</span><br>
+                        <span class="fs-6 lh-1">France</span>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-12 py-2">
+                    <div class="border-top">
+                        <span class="fs-6  lh-1">Facebook</span><br>
+                        <span class="fs-6 lh-1">Twitter</span><br>
+                        <span class="fs-6 lh-1">Instagram</span>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-12 py-2">
+                    <div class="border-top">
+                        <span class="fs-6  lh-1"><a href="#">www.site-du-stade-france.com</a></span><br>
+                    </div>
                 </div>
             </div>
         
