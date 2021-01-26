@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="en" class="h-100">
-
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -10,7 +9,6 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css">
     <link rel="stylesheet" href="styles/style.css">
 </head>
-
 <body class="d-flex flex-column h-100">
     <header>
         <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top">
@@ -40,18 +38,20 @@
                         <li class="nav-item">
                             <a class="nav-link" aria-current="page" href="page-events.php" title="Rechercher un Evènement">Rechercher un Evènement</a>
                         </li>
-                        <li class="nav-item">
-                            <a class="nav-link" aria-current="page" href="page-dashboard-user-ag.php" title="Tableau de bord utilisateur">Tableau de bord</a>
-                        </li>    
-                        <li>
-                            <a class="nav-link" aria-current="page" href="page-dashboard-user.php" title="Notification"><i class="bi bi-bell-fill text-white"></i></a>
-                        </li>   
-                        <li class="nav-item">
-                            <a class="nav-link" aria-current="page" href="page-dashboard-organizer.php" title="Tableau de bord organisateur">TB Orga</a>
-                        </li> 
-                        <li class="nav-item">
-                            <a class="nav-link" aria-current="page" href="page-dashboard-admin.php" title="Tableau de bord Admin">TB Admin</a>
-                        </li>          
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                            Dropdown
+                            </a>
+                            <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                <li><a class="dropdown-item" aria-current="page" href="page-dashboard-user-ag.php" title="Tableau de bord utilisateur">Tableau de bord user</a>
+                                </li>  
+                                <li><a class="dropdown-item" aria-current="page" href="page-dashboard-admin-ag.php" title="Notification">Tableau de bord admin </a>
+                                </li>
+                                <li>
+                                    <a class="dropdown-item" aria-current="page" href="page-dashboard-organizer.php" title="Tableau de bord organisateur">TB Orga</a>
+                                </li>  
+                            </ul>
+                        </li>       
                     </ul>
                     <form class="d-flex mx-4">
                         <!-- <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search"> -->
