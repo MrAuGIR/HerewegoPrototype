@@ -40,8 +40,11 @@ require_once 'commons/header.php';
                     Integer vulputate at nunc ac sollicitudin. Integer feugiat ipsum sodales arcu accumsan, sed imperdiet tellus efficitur. Aliquam erat volutpat. Sed mollis ultricies bibendum. Donec rutrum orci velit, facilisis rutrum nulla venenatis quis. Mauris egestas elementum justo, facilisis congue massa fringilla lobortis. Proin magna arcu, lobortis ut mi ac, venenatis tempor risus. Sed pretium sem eu diam pulvinar facilisis. Proin sagittis maximus libero. Vestibulum facilisis lacus non turpis consectetur, id ultricies elit vulputate. Integer ultrices elit elit, sit amet convallis nisl volutpat nec. Quisque tempus malesuada euismod. Donec ex ante, vestibulum sed semper a, egestas a est. Aliquam sodales nec ante non sodales.
                     </p>
                 </div>
-                <div class="col-12 mt-4 mb-4">
+                <div class="col-12 col-md-6 mt-4 mb-4">
                     <a href="page-transports-event.php"  class="btn btn-info">Les transports</a>
+                </div>
+                <div class="col-12 col-md-6 mt-4 mb-4">
+                    <a href="page-creation-transport.php"  class="btn btn-info">Proposer un transport</a>
                 </div>
             </div>
         </div>

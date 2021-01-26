@@ -21,6 +21,31 @@ main {
 
 
 
+.make-transport{
+    display: flex;
+    flex-direction: column;
+    min-height: 10vh;
+}
+
+@media screen and (min-width: 998px){
+    
+    .make-transport{
+        display: flex;
+        flex-direction: column;
+        min-height: 25vh;
+    }
+}
+
+@media screen and (min-width: 1200px){
+    
+    .make-transport{
+        display: flex;
+        flex-direction: column;
+        min-height: 33vh;
+    }
+}
+
+
 /* FOOTER */
 
 .footer-bloc {
