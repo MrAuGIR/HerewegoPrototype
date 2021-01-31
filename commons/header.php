@@ -43,7 +43,7 @@
                             Dropdown
                             </a>
                             <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                                <li><a class="dropdown-item" aria-current="page" href="page-dashboard-user-ag.php" title="Tableau de bord utilisateur">Tableau de bord user</a>
+                                <li><a class="dropdown-item" aria-current="page" href="page-dashboard-user-event-jd.php" title="Tableau de bord utilisateur">Tableau de bord user</a>
                                 </li>  
                                 <li><a class="dropdown-item" aria-current="page" href="page-dashboard-admin-ag.php" title="Notification">Tableau de bord admin </a>
                                 </li>
