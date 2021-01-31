@@ -64,7 +64,7 @@ require_once 'commons/header.php';
                         <p class="text-center">demande effectué le 12/03/2019 auprès de Michel P.</p>
                     </div>
                     <div class="col-6">
-                        <a class="btn btn-primary" href="#" role="button">Voir le transport</a>
+                        <a class="btn btn-primary" href="page-selected-transport.php" role="button">Voir le transport</a>
                         <a class="btn btn-primary" href="#" role="button">Annuler ma demande</a>
                     </div>
                 </div>

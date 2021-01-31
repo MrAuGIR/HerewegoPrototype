@@ -43,7 +43,9 @@
                             Dropdown
                             </a>
                             <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                                <li><a class="dropdown-item" aria-current="page" href="page-dashboard-user-event-jd.php" title="Tableau de bord utilisateur">Tableau de bord user</a>
+                                <li><a class="dropdown-item" aria-current="page" href="page-dashboard-user-event-ag.php" title="Tableau de bord utilisateur">Tableau de bord user ag</a>
+                                </li>  
+                                <li><a class="dropdown-item" aria-current="page" href="page-dashboard-user-event-jd.php" title="Tableau de bord utilisateur">Tableau de bord user jd</a>
                                 </li>  
                                 <li><a class="dropdown-item" aria-current="page" href="page-dashboard-admin-ag.php" title="Notification">Tableau de bord admin </a>
                                 </li>

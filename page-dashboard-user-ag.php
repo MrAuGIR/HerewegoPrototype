@@ -11,7 +11,7 @@ require_once 'commons/header.php';
                     <a class="nav-link active" aria-current="page" href="#">Mon profil</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="page-dashboard-event-ag.php">Mes events</a>
+                    <a class="nav-link" href="page-dashboard-user-event-ag.php">Mes events</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="#">Mon Historique</a>
