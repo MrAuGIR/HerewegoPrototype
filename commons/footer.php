@@ -16,7 +16,7 @@
                 </ul>
             </div>
             <div class="text-center text-light">
-                HereWeGo Prototype - Aurélien Girard - Jérémy Dallain
+                HereWeGo Prototype - Aurélien Girard - Jérémy Dallain - <a class="text-white" target="_blank" href="https://github.com/MrAuGIR/Herewego" title="github de projet">github</a> 
             </div>            
         </div>
     </footer>
