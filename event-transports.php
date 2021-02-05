@@ -37,7 +37,7 @@ liste / recap
                 <p>infos retour</p>
                 <p>commentaires</p>
                 <p>nombre de places dipsos</p>
-                <a href="page-selected-transport.php">vers la page du transport</a>
+                <a href="transport.php">vers la page du transport</a>
             </div>
         </div>
     </div>
@@ -59,7 +59,7 @@ liste / recap
                 <p>infos retour</p>
                 <p>commentaires</p>
                 <p>nombre de places dipsos</p>
-                <a href="page-selected-transport.php">vers la page du transport</a>
+                <a href="transport.php">vers la page du transport</a>
             </div>
         </div>
     </div>
@@ -81,7 +81,7 @@ liste / recap
                 <p>infos retour</p>
                 <p>commentaires</p>
                 <p>nombre de places dipsos</p>
-                <a href="page-selected-transport.php">vers la page du transport</a>
+                <a href="transport.php">vers la page du transport</a>
             </div>
         </div>
     </div>
@@ -103,7 +103,7 @@ liste / recap
                 <p>infos retour</p>
                 <p>commentaires</p>
                 <p>nombre de places dipsos</p>
-                <a href="page-selected-transport.php">vers la page du transport</a>
+                <a href="transport.php">vers la page du transport</a>
             </div>
         </div>
     </div>
@@ -125,7 +125,7 @@ liste / recap
                 <p>infos retour</p>
                 <p>commentaires</p>
                 <p>nombre de places dipsos</p>
-                <a href="page-selected-transport.php">vers la page du transport</a>
+                <a href="transport.php">vers la page du transport</a>
             </div>
         </div>
     </div>
@@ -147,7 +147,7 @@ liste / recap
                 <p>infos retour</p>
                 <p>commentaires</p>
                 <p>nombre de places dipsos</p>
-                <a href="page-selected-transport.php">vers la page du transport</a>
+                <a href="transport.php">vers la page du transport</a>
             </div>
         </div>
     </div>    

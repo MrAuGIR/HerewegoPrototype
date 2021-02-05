@@ -48,10 +48,10 @@ require_once 'commons/header.php';
                 <input class="form-control form-control-lg" type="text" placeholder="rechercher" aria-label=".form-control-lg example">
             </div>
             <div class="col-2">
-                <input type="submit" class="submit-faq" name="submit" value="envoyer">
+                <input type="submit" class="submit-faq" name="submit" value="rechercher">
             </div>
             <div class="col-12">
-                <a href="page-form-question.php" title="poser une question">Vous ne trouvez pas de réponse ? envoyez nous une question </a>
+                <a href="faq-user-form.php" title="poser une question">Vous ne trouvez pas de réponse ? envoyez nous une question </a>
             </div>
         </div>
         <div class="row my-5">

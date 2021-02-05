@@ -8,7 +8,7 @@ require_once 'commons/header.php';
 <main>
     <div class="row my-2">
         <div class="col-12">
-            <a href="page-faq.php" title="page faq">Retour page faq</a>
+            <a href="faq-user-liste.php" title="page faq">Retour page faq</a>
         </div>
     </div>
     <div class="row my-2">

@@ -23,7 +23,7 @@ require_once 'commons/header.php';
         </ul>
     </div>
     <div class="card-body">
-        <a class="btn btn-success d-block w-50 m-auto mb-5" href="page-creation-event.php" role="button">Créer un event</a>
+        <a class="btn btn-success d-block w-50 m-auto mb-5" href="creation-event.php" role="button">Créer un event</a>
         
         <h2 class="mb-5 text-center">Liste de mes events à venir</h2>
 
@@ -39,8 +39,8 @@ require_once 'commons/header.php';
                         <div class="accordion-body">
                             <div class="box border border-primary">
                                 <p>INFOS DE L'EVENT <?= $i ?></p>
-                                <a href="page-selected-event.php">page de l'event <?= $i ?></a>
-                                <a href="page-modification-event.php">modifier l'event <?= $i ?></a>
+                                <a href="event.php">page de l'event <?= $i ?></a>
+                                <a href="modification-event.php">modifier l'event <?= $i ?></a>
                                 <a href="#">annuler l'event <?= $i ?></a>
                             </div>
                         </div>

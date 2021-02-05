@@ -35,9 +35,6 @@
                         <li class="nav-item">
                             <a class="nav-link" aria-current="page" href="index.php" title="Accueil">Accueil</a>
                         </li>
-                        <li class="nav-item">
-                            <a class="nav-link" aria-current="page" href="plan.php" title="Plan du site">Plan du site</a>
-                        </li>  
                         <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle text-white" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                             <span class="text-white">Utilisateur</span>

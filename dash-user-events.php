@@ -44,8 +44,8 @@ require_once 'commons/header.php';
                                 <p class="text-center text-light">Vous n'avez pas de transport pour cet event ? </p>
                             </div>
                             <div class="col-6">
-                                <a class="btn btn-primary" href="page-transports-event.php" role="button">Rejoindre un transport existant</a>
-                                <a class="btn btn-primary" href="page-creation-transport.php" role="button">Organiser vous-même un transport</a>
+                                <a class="btn btn-primary" href="event-transports.php" role="button">Rejoindre un transport existant</a>
+                                <a class="btn btn-primary" href="creation-transport.php" role="button">Organiser vous-même un transport</a>
                             </div>
                         </div>
                     </div>
@@ -73,7 +73,7 @@ require_once 'commons/header.php';
                                 <p class="text-center">demande effectué le 12/03/2019 auprès de Michel P.</p>
                             </div>
                             <div class="col-6">
-                                <a class="btn btn-primary" href="page-selected-transport.php" role="button">Voir le transport</a>
+                                <a class="btn btn-primary" href="transport.php" role="button">Voir le transport</a>
                                 <a class="btn btn-primary" href="#" role="button">Annuler ma demande</a>
                             </div>
                         </div>
@@ -102,7 +102,7 @@ require_once 'commons/header.php';
                                 <p class="text-center">il restes des places disponibles</p>
                             </div>
                             <div class="col-6">
-                                <a class="btn btn-primary" href="page-manager-transport.php" role="button">Gerer mon transport</a><span class="badge bg-danger">!</span>
+                                <a class="btn btn-primary" href="manager-transport.php" role="button">Gerer mon transport</a><span class="badge bg-danger">!</span>
                             </div>
                         </div>
                     </div>
@@ -129,7 +129,7 @@ require_once 'commons/header.php';
                                 <p class="text-center text-light">Vous faites parti d'un transport</p>
                             </div>
                             <div class="col-6">
-                                <a class="btn btn-primary" href="page-selected-transport.php" role="button">Voir mon transport</a>
+                                <a class="btn btn-primary" href="transport.php" role="button">Voir mon transport</a>
                             </div>
                         </div>
 

@@ -35,7 +35,7 @@ require_once 'commons/header.php';
                         <div class="accordion-body">
                             <div class="box border border-primary">
                                 <p>INFOS DE L'EVENT <?= $i ?></p>
-                                <a href="page-selected-event.php">page de l'event <?= $i ?></a>
+                                <a href="event.php">page de l'event <?= $i ?></a>
                             </div>
                         </div>
                     </div>

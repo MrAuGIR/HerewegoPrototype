@@ -25,7 +25,7 @@ require_once 'commons/header.php';
             <div class="card-img-overlay">
                 <h5 class="card-title bg-text-card">U2 stade de france</h5>
                 <p class="card-text bg-text-card">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-                <p class="card-text bg-text-card"><a href="page-selected-event.php">page de l'event</a></p>
+                <p class="card-text bg-text-card"><a href="event.php">page de l'event</a></p>
             </div>
         </div>
     </div>
@@ -37,7 +37,7 @@ require_once 'commons/header.php';
             <div class="card-img-overlay">
                 <h5 class="card-title bg-text-card">Card title</h5>
                 <p class="card-text bg-text-card">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-                <p class="card-text bg-text-card"><a href="page-selected-event.php">page de l'event</a></p>
+                <p class="card-text bg-text-card"><a href="event.php">page de l'event</a></p>
             </div>
         </div>
     </div>
@@ -49,7 +49,7 @@ require_once 'commons/header.php';
             <div class="card-img-overlay">
                 <h5 class="card-title bg-text-card">Card title</h5>
                 <p class="card-text bg-text-card">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-                <p class="card-text bg-text-card"><a href="page-selected-event.php">page de l'event</a></p>
+                <p class="card-text bg-text-card"><a href="event.php">page de l'event</a></p>
             </div>
         </div>
     </div>
@@ -66,7 +66,7 @@ require_once 'commons/header.php';
             <div class="card-img-overlay">
                 <h5 class="card-title">Card title</h5>
                 <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-                <p class="card-text bg-text-card"><a href="page-selected-event.php">page de l'event</a></p>
+                <p class="card-text bg-text-card"><a href="event.php">page de l'event</a></p>
             </div>
         </div>
     </div>
@@ -78,7 +78,7 @@ require_once 'commons/header.php';
             <div class="card-img-overlay">
                 <h5 class="card-title">Card title</h5>
                 <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-                <p class="card-text bg-text-card"><a href="page-selected-event.php">page de l'event</a></p>
+                <p class="card-text bg-text-card"><a href="event.php">page de l'event</a></p>
             </div>
         </div>
     </div>
@@ -90,7 +90,7 @@ require_once 'commons/header.php';
             <div class="card-img-overlay">
                 <h5 class="card-title">Card title</h5>
                 <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-                <p class="card-text bg-text-card"><a href="page-selected-event.php">page de l'event</a></p>
+                <p class="card-text bg-text-card"><a href="event.php">page de l'event</a></p>
             </div>
         </div>
     </div>
@@ -100,11 +100,12 @@ require_once 'commons/header.php';
         <h3>Catégorie d'évènements</h3>
     </div>
     <div class="col-12">
-        <a href="page-events.php" type="button" class="btn btn-primary btn-lg me-2">Sport</a>
-        <a href="page-events.php" type="button" class="btn btn-primary btn-lg me-2">Concert</a>
-        <a href="page-events.php" type="button" class="btn btn-primary btn-lg me-2">Opérat</a>
-        <a href="page-events.php" type="button" class="btn btn-primary btn-lg me-2">Musée</a>
-        <a href="page-events.php" type="button" class="btn btn-primary btn-lg me-2">Manifestation</a>
+        <a href="#" type="button" class="btn btn-primary btn-lg me-2">Sport</a>
+        <a href="#" type="button" class="btn btn-primary btn-lg me-2">Concert</a>
+        <a href="#" type="button" class="btn btn-primary btn-lg me-2">Opérat</a>
+        <a href="#" type="button" class="btn btn-primary btn-lg me-2">Musée</a>
+        <a href="#" type="button" class="btn btn-primary btn-lg me-2">Manifestation</a>
+        <span>filtre...</span>
     </div>
 </div>
 <!-- FIN CONTENU DE LA PAGE -->

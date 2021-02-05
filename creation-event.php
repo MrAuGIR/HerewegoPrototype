@@ -37,7 +37,7 @@ require_once 'commons/header.php';
         </div>
         <div class="col-10">
             <div class="row mb-5 pb-5 border-bottom ">
-                <a href="page-dashboard-organizer.php">Retour tableau de bord
+                <a href="dash-organizer-events.php">Retour tableau de bord
                 </a>
             </div>
             <form>

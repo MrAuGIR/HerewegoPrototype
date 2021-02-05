@@ -41,10 +41,10 @@ require_once 'commons/header.php';
                     </p>
                 </div>
                 <div class="col-12 col-md-6 mt-4 mb-4">
-                    <a href="page-transports-event.php"  class="btn btn-info">Les transports</a>
+                    <a href="event-transports.php"  class="btn btn-info">Les transports</a>
                 </div>
                 <div class="col-12 col-md-6 mt-4 mb-4">
-                    <a href="page-creation-transport.php"  class="btn btn-info">Proposer un transport</a>
+                    <a href="transport.php"  class="btn btn-info">Proposer un transport</a>
                 </div>
             </div>
         </div>

@@ -12,7 +12,7 @@ require_once 'commons/header.php';
                 </div>
                 <div class="card-body">
                     <p class="card-text">De 8h300 le 19/02/2021 -----------> vers ------------> stade de france le 19/02/2021 à 21h00</p>
-                    <a href="#" class="btn btn-primary">Modifier le transport</a>
+                    <a href="modification-transport.php" class="btn btn-primary">Modifier le transport</a>
                 </div>
             </div>
         </div>
@@ -105,7 +105,7 @@ require_once 'commons/header.php';
                     </ul>
                 </div>
                 <div class="col-12">
-                    <a href="#">Lien vers la page de l'event</a>
+                    <a href="event.php">Lien vers la page de l'event</a>
                 </div>
             </div>
                 
