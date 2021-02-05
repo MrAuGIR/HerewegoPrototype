@@ -8,6 +8,7 @@
     <link rel="stylesheet" href="bootstrap/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css">
     <link rel="stylesheet" href="styles/style.css">
+    <link rel="stylesheet" href="styles/style_jd.css">
 </head>
 <body class="d-flex flex-column h-100">
     <header>
@@ -22,44 +23,83 @@
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                         <li class="nav-item">
-                            <a class="nav-link" aria-current="page" href="page-register.php" title="Inscription">Inscription</a>
+                            <a class="nav-link" aria-current="page" href="register.php" title="Inscription">Inscription</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" aria-current="page" href="page-connexion.php" title="Connexion">Connexion</a>
+                            <a class="nav-link" aria-current="page" href="connexion.php" title="Connexion">Connexion</a>
                         </li>
-                        <li class="nav-item">
-                            <a class="nav-link" aria-current="page" href="deconnexion.php" title="Déconnexion">Déconnexion</a>
-                        </li>                                             
+                                                                   
+                                                                   
                     </ul>
                     <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
                         <li class="nav-item">
                             <a class="nav-link" aria-current="page" href="index.php" title="Accueil">Accueil</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" aria-current="page" href="page-events.php" title="Rechercher un Evènement">Rechercher un Evènement</a>
-                        </li>
+                            <a class="nav-link" aria-current="page" href="plan.php" title="Plan du site">Plan du site</a>
+                        </li>  
                         <li class="nav-item dropdown">
-                            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                            Dropdown
+                            <a class="nav-link dropdown-toggle text-white" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                            <span class="text-white">Utilisateur</span>
                             </a>
                             <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                                <li><a class="dropdown-item" aria-current="page" href="page-dashboard-user-event-ag.php" title="Tableau de bord utilisateur">Tableau de bord user ag</a>
-                                </li>  
-                                <li><a class="dropdown-item" aria-current="page" href="page-dashboard-user-event-jd.php" title="Tableau de bord utilisateur">Tableau de bord user jd</a>
-                                </li>  
-                                <li><a class="dropdown-item" aria-current="page" href="page-dashboard-admin-ag.php" title="Notification">Tableau de bord admin </a>
-                                </li>
                                 <li>
-                                    <a class="dropdown-item" aria-current="page" href="page-dashboard-organizer.php" title="Tableau de bord organisateur">TB Orga</a>
+                                    <a class="dropdown-item" aria-current="page" href="dash-user-profil.php">profil</a>
                                 </li>  
+                                <li>
+                                    <a class="dropdown-item" aria-current="page" href="dash-user-events.php">events / transports</a>
+                                </li>  
+                                <li>
+                                    <a class="dropdown-item" aria-current="page" href="dash-user-archives.php">historique</a>
+                                </li>   
+                                <li>
+                                    <a class="dropdown-item" aria-current="page" href="deconnexion.php">déconnexion</a>
+                                </li>                                  
                             </ul>
-                        </li>       
+                        </li>   
+                        <li>
+                            <a class="navbar-brand" href="dash-user-profil.php" title="Profil"><i class="bi bi-person-circle fs-3"></i></a>
+                        </li>    
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle text-white" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                            <span class="text-white">Organisateur</span>
+                            </a>
+                            <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                <li>
+                                    <a class="dropdown-item" aria-current="page" href="dash-organizer-profil.php">profil</a>
+                                </li>  
+                                <li>
+                                    <a class="dropdown-item" aria-current="page" href="dash-organizer-events.php">events / transports</a>
+                                </li>  
+                                <li>
+                                    <a class="dropdown-item" aria-current="page" href="dash-organizer-archives.php">historique</a>
+                                </li>  
+                                <li>
+                                    <a class="dropdown-item" aria-current="page" href="dash-organizer-stats.php">statistiques</a>
+                                </li> 
+                                <li>
+                                    <a class="dropdown-item" aria-current="page" href="deconnexion.php">déconnexion</a>
+                                </li>                                  
+                            </ul>
+                        </li>   
+                        <li>
+                            <a class="navbar-brand" href="dash-organizer-profil.php" title="Profil"><i class="bi bi-person-circle fs-3 text-white"></i></a>
+                        </li>    
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle text-warning" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                            <span class="text-warning">Admin</span>
+                            </a>
+                            <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                <li>
+                                    <a class="dropdown-item" aria-current="page" href="dash-admin.php">Dashboard</a>
+                                </li>                                 
+                            </ul>
+                        </li>   
+                        <li>
+                            <a class="navbar-brand" href="dash-organizer-profil.php" title="Profil"><i class="bi bi-person-circle fs-3 text-warning"></i></a>
+                        </li>    
                     </ul>
-                    <form class="d-flex mx-4">
-                        <!-- <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search"> -->
-                        <button class="btn btn-outline-light" type="submit"><i class="bi bi-search"></i></button>
-                    </form>
-                    <a class="navbar-brand mb-2" href="page-profil.php" title="Profil"><i class="bi bi-person-circle fs-3"></i></a>
+                    
                 </div>
             </div>
         </nav>        

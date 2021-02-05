@@ -5,7 +5,7 @@ require_once 'commons/header.php';
 ?>
 <!-- DEBUT CONTENU DE LA PAGE -->
 
-traitement de la deconnexion...
+traitement de la deconnexion... page inutile
 
 <!-- FIN CONTENU DE LA PAGE -->
 <?php
