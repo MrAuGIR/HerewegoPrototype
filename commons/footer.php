@@ -7,7 +7,7 @@
         <div class="container">
             <div class="row">
                 <ul>
-                    <li><a style=" text-decoration:none; color:white;" href="page_faq.php" >FAQ</a></li>
+                    <li><a style=" text-decoration:none; color:white;" href="page-faq.php" >FAQ</a></li>
                 </ul>
             </div>
             <div class="text-center text-light">
