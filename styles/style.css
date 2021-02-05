@@ -101,3 +101,21 @@ main {
     height: 100%;
     object-fit: cover;
 }
+
+/* page FAQ button submit */
+.submit-faq{
+    display: flex;
+    height: 45px;
+    z-index: 1;
+    padding: 0;
+    cursor: pointer;
+    outline: 0;
+    color: #fff;
+    font-size: 16px;
+    border: 1px solid #0386c3;
+    background: #129af0;
+    border-radius: 3px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+    
