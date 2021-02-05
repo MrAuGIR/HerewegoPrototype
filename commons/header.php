@@ -93,7 +93,7 @@
                             </ul>
                         </li>   
                         <li>
-                            <a class="navbar-brand" href="dash-organizer-profil.php" title="Profil"><i class="bi bi-person-circle fs-3 text-warning"></i></a>
+                            <a class="navbar-brand" href="dash-admin.php" title="Profil"><i class="bi bi-person-circle fs-3 text-warning"></i></a>
                         </li>    
                     </ul>
                     
