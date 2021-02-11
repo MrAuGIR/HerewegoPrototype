@@ -77,6 +77,11 @@ main {
     height: 300px;
 }
 
+.picture-demand{
+    width: 150px;
+    height: 150px;
+}
+
 .picture img{
     /* object-fit: cover; */
     display: block;

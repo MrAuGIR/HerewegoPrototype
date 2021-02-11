@@ -15,7 +15,7 @@ require_once 'commons/header.php';
                 <a class="nav-link active" href="dash-organizer-events.php">Events</a>
             </li>
             <li class="nav-item w-25">
-                <a class="nav-link" href="dash-organizer-archives.php">Hstorique</a>
+                <a class="nav-link" href="dash-organizer-archives.php">Historique</a>
             </li>
             <li class="nav-item w-25">
                 <a class="nav-link" href="dash-organizer-stats.php">Statistiques</a>
