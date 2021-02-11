@@ -88,7 +88,7 @@
                             </a>
                             <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
                                 <li>
-                                    <a class="dropdown-item" aria-current="page" href="dash-admin.php">Dashboard</a>
+                                    <a class="dropdown-item" aria-current="page" href="Admin/dash-admin.php">Dashboard</a>
                                 </li>                                 
                             </ul>
                         </li>   
