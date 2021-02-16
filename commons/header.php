@@ -88,12 +88,12 @@
                             </a>
                             <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
                                 <li>
-                                    <a class="dropdown-item" aria-current="page" href="Admin/dash-admin.php">Dashboard</a>
+                                    <a class="dropdown-item" aria-current="page" href="admin/dash-admin.php">Dashboard</a>
                                 </li>                                 
                             </ul>
                         </li>   
                         <li>
-                            <a class="navbar-brand" href="dash-admin.php" title="Profil"><i class="bi bi-person-circle fs-3 text-warning"></i></a>
+                            <a class="navbar-brand" href="admin/dash-admin.php" title="Profil"><i class="bi bi-person-circle fs-3 text-warning"></i></a>
                         </li>    
                     </ul>
                     
