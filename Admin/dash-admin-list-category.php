@@ -35,7 +35,7 @@ require_once '../commons/header-Admin.php';
                         <td><?= $i ?></td>
                         <td>Concert</td>
                         <td><a href="#" style="display:block; width:25px; height:25px; background-color:blue;"></a></td>
-                        <td><img style="width:25px;"src="../img/logo.png"></td>
+                        <td><img style="width:25px;" src="https://picsum.photos/25"></td>
                         <td><a href="#">Modifier</a></td>
                         <td><a href="#">Supprimer</a></td>
                     </tr>
