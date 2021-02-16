@@ -7,10 +7,10 @@
             <div class="row">
                 <ul>
                     <li>
-                        <a style=" text-decoration:none; color:white;" href="faq-user-liste.php">FAQ</a>
+                        <a style=" text-decoration:none; color:white;" href="../faq-user-liste.php">FAQ</a>
                     </li>
                     <li>
-                        <a style=" text-decoration:none; color:white;" href="plan.php" title="Plan du site">Plan du site</a>
+                        <a style=" text-decoration:none; color:white;" href="../plan.php" title="Plan du site">Plan du site</a>
                     </li>
                 </ul>
             </div>
